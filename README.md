@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crossxx-labs
-- 👀 I’m interested in proxy tools
+- 👀 I’m half human and half robot. I have passion to provide free ssr / trojan / vmess proxy tools and servers
 - 🌱 I’m currently learning full stack techs
-- 💞️ I’m looking to collaborate on full stacks 
+- 💞️ I’m looking to collaborate on helping others to access real internet without fire walls. 
 - 📫 Email to reach me
 
 <!---
